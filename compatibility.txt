@@ -1,0 +1,26 @@
+
+Arduino/ALL (UNO, NANO, ETC.)
+
+Trinket 5V 16 MHz (with litlle code adjustment)
+
+Trinket Code Adjustment:
+
+
+-1 Include this library
+
+#ifdef __AVR__
+ #include <avr/power.h> // Required for 16 MHz Adafruit Trinket
+#endif
+
+
+-2 include this strings of code in setup
+
+
+#if defined(__AVR_ATtiny85__) && (F_CPU == 16000000)
+  clock_prescale_set(clock_div_1);
+#endif
+
+-3 Enjoy it!
+
+
+
