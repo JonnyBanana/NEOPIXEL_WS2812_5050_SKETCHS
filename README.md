@@ -4,7 +4,7 @@ Sample Code, Arduino Sketch's and Animations for WS2812 5050 RGB LED Ring 12 LED
 
 </BR>
 
- ![Alt text](https://raw.githubusercontent.com/JonnyBanana/BananasTree/master/img/TreePinout.jpg)
+ ![Alt text](https://raw.githubusercontent.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS/master/Sketch's/SKETCH.JPG)
  
  
  
