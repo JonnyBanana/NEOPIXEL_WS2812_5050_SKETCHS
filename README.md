@@ -72,7 +72,7 @@ Have also made a short video, just click to see...
 </BR>
 
 <a href="https://www.youtube.com/watch?v=-1_Xn5zoiNQ&t
-" target="_blank"><img src="https://raw.githubusercontent.com/JonnyBanana/Rubber-Ducky_Disable_W10-Defender_Technician-Edition/master/img/video.JPG" 
+" target="_blank"><img src="https://raw.githubusercontent.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS/master/img/yt.jpg" 
 alt="Rubber-Ducky_Disable_W10-Defender_Technician-Edition" width="600" height="450" border="100" /></a> 
 
 </BR>
