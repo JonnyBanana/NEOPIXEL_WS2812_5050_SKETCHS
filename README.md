@@ -16,15 +16,14 @@ Sample Code, Arduino Sketch's and Animations for WS2812 5050 RGB LED Ring 12 LED
  
  <h4>Like_Disco.ino</h4>
  
- <h4>Rainbow_Circle<Like_Disco.ino</h4>
+ <h4>Rainbow_Circle.ino</h4>
   
  <h4>Rainbow_Circle_II.ino</h4>
    
  <h4>Rainbow_Flash.ino</h4>
     
-<h4>Shock.ino</h4>
+ <h4>Shock.ino</h4>
      
- <h4>Like_Disco.ino</h4>
  
  
 </BR> 
