@@ -15,17 +15,22 @@ Sample Code, Arduino Sketch's and Animations for WS2812 5050 RGB LED Ring 12 LED
  
  The "Sketch's" folder contains the skecth in .fzz and .jpg format and also a .txt file with simple hardware connections
  
+ </BR>
+ 
  
  ![Alt text]( https://raw.githubusercontent.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS/master/Sketch's/SKETCH.JPG)
  
  
 
- 
+
  
 The hardware has been given to me for testing by: HitLetGo
 
+</BR>
 
+  ![Alt text](https://raw.githubusercontent.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS/master/img/HiLetG.png)
 
+</BR>
 
  http://www.hiletgo.com/
  
