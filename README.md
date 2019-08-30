@@ -5,12 +5,10 @@ Sample Code, Arduino Sketch's and Animations for WS2812 5050 RGB LED Ring 12 LED
 </BR>
 
  ![Alt text](https://raw.githubusercontent.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS/master/Sketch's/SKETCH.JPG)
- 
- 
- <iframe src="https://giphy.com/embed/cnFGNZD72YKP8ZE3eO" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cnFGNZD72YKP8ZE3eO">via GIPHY</a></p>
+
 
  
- ![Alt text](https://media.giphy.com/media/cnFGNZD72YKP8ZE3eO/giphy.gif)
+ ![Alt text](https://giphy.com/embed/cnFGNZD72YKP8ZE3eO)
  
  
  http://www.hiletgo.com/
