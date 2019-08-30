@@ -14,8 +14,6 @@ Sample Code, Arduino Sketch's and Animations for WS2812 5050 RGB LED Ring 12 LED
  
  This folder contains 5 animations for NEOPIXEL WS2812_5050 in .ino format, the files are as follows:
  
- </BR>
- 
  <h3>Like_Disco.ino</h3>
  
  <h3>Rainbow_Circle<Like_Disco.ino</h3>
