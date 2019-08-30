@@ -63,3 +63,15 @@ Sample Code, Arduino Sketch's and Animations for WS2812 5050 RGB LED Ring 12 LED
 ![Alt text](https://raw.githubusercontent.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS/master/img/HiLetGO.jpg)
   
 </BR>
+
+Have also made a short video, just click to see...
+
+
+</BR>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-1_Xn5zoiNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</BR>
+
+
+
