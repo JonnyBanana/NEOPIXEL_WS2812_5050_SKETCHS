@@ -69,7 +69,13 @@ Have also made a short video, just click to see...
 
 </BR>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-1_Xn5zoiNQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</BR>
+
+<a href="https://www.youtube.com/watch?v=-1_Xn5zoiNQ&t=1s
+" target="_blank"></a> 
+
+</BR>
+
 
 </BR>
 
