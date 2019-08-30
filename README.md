@@ -4,13 +4,9 @@ Sample Code, Arduino Sketch's and Animations for WS2812 5050 RGB LED Ring 12 LED
 
 </BR>
 
- !
-
-
- 
  ![Alt text](https://raw.githubusercontent.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS/master/img/GIF.gif)
  
- 
+ </BR>
  
  
 The hardware has been given to me for testing by: HitLetGo
@@ -26,4 +22,4 @@ The hardware has been given to me for testing by: HitLetGo
  
  https://www.amazon.it/stores/HiLetgo/node/10327735031
 
-
+</BR>
