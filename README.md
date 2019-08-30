@@ -42,7 +42,7 @@ Sample Code, Arduino Sketch's and Animations for WS2812 5050 RGB LED Ring 12 LED
  
  </BR>
 
- The hardware has been given to me for testing by HitLetGo
+ Thank You Very Much to <h5>HitLetGo</h5> to given to me this, and other, hardware for testing purpouse.
 
 </BR>
 
