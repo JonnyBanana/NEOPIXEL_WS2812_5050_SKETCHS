@@ -10,7 +10,7 @@ Sample Code, Arduino Sketch's and Animations for WS2812 5050 RGB LED Ring 12 LED
  
 
  
- ![Alt text]( https://media.giphy.com/media/cnFGNZD72YKP8ZE3eO/giphy.gif)
+ ![Alt text](https://media.giphy.com/media/cnFGNZD72YKP8ZE3eO/giphy.gif)
  
  
  http://www.hiletgo.com/
